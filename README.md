@@ -1,3 +1,3 @@
 # Bienvenidos al Site de Newpay
 
-![Esta es una imagen](https://github.com/IPNEWPAY/IPNEWPAY/blob/main/Logo%20Newpay.PNG?raw=true)
+![Esta es una imagen](https://github.com/IPNEWPAY/IPNEWPAY/blob/main/banner%20logo%20newpay.PNG?raw=true)
