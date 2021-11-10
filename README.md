@@ -6,5 +6,7 @@ En esta página encontrarán toda la documentación necesaria para integrarse co
 
 ## Repositorios
 **- Billeteras**: documentación funcional, de servicios y swaggers disponibles para quienes operen en rol de Billetera.
+
 **- Aceptadores**: documentación funcional, de servicios y swaggers disponibles para quienes operen en rol de Aceptador.
+
 **- Emisores**: documentación funcional, de servicios y swaggers disponibles para quienes operen en rol de Emisor.
